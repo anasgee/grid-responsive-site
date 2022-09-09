@@ -1,6 +1,5 @@
 # CSS-Grid
-This is the simple Website layout using CSS Grid.
+This is the simple Website template developed using HTML CSS( Grid + media Queries).
 
-By using CSS Grid, we can easily design a layout of any website.
 
-# Practice Code By ANAS RAZA
+# Web Template By ANAS RAZA
